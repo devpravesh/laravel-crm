@@ -1,12 +1,4 @@
-<p align="center">
-<a href="http://krayincrm.com"><img src="https://bagisto.com/wp-content/uploads/2021/06/bagisto-logo.png" alt="Total Downloads"></a>
-</p>
 
-<p align="center">
-<a href="https://packagist.org/packages/krayin/laravel-crm"><img src="https://poser.pugx.org/krayin/laravel-crm/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/krayin/laravel-crm"><img src="https://poser.pugx.org/krayin/laravel-crm/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/krayin/laravel-crm"><img src="https://poser.pugx.org/krayin/laravel-crm/license.svg" alt="License"></a>
-</p>
 
 ## Topics
 
@@ -19,17 +11,17 @@
 
 ### Introduction
 
-[Krayin CRM](https://krayincrm.com) is a hand tailored CRM framework built on some of the hottest opensource technologies
+[Krayin CRM](https://crm.com) is a hand tailored CRM framework built on some of the hottest opensource technologies
 such as [Laravel](https://laravel.com) (a [PHP](https://secure.php.net/) framework) and [Vue.js](https://vuejs.org)
 a progressive Javascript framework.
 
 **Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.**
 
-**Read our documentation: [Krayin CRM Docs](https://devdocs.krayincrm.com/)**
+**Read our documentation: [ CRM Docs](https://devdocs.crm.com/)**
 
-**We also have a forum for any type of concerns, feature requests, or discussions. Please visit: [Krayin CRM Forums](https://forums.krayincrm.com/)**
+**We also have a forum for any type of concerns, feature requests, or discussions. Please visit: [ CRM Forums](https://forums.crm.com/)**
 
-# Visit our live [Demo](https://demo.krayincrm.com)
+# Visit our live [Demo](https://demo.crm.com)
 
 It packs in lots of features that will allow your E-Commerce business to scale in no time:
 
@@ -38,14 +30,14 @@ It packs in lots of features that will allow your E-Commerce business to scale i
 -   Custom Attributes.
 -   Built on Modular Approach.
 -   Email parsing via Sendgrid.
--   Check out [these features and more](https://krayincrm.com/features/).
+-   Check out [these features and more](https://crm.com/features/).
 
 **For Developers**:
 Take advantage of two of the hottest frameworks used in this project -- Laravel and Vue.js -- both of which have been used in Krayin CRM.
 
 ### Documentation
 
-#### Krayin Documentation [https://devdocs.krayincrm.com](https://devdocs.krayincrm.com)
+#### Krayin Documentation [https://devdocs.crm.com](https://devdocs.crm.com)
 
 ### Requirements
 
@@ -62,7 +54,7 @@ Take advantage of two of the hottest frameworks used in this project -- Laravel 
 ##### Execute these commands below, in order
 
 ```
-composer create-project krayin/laravel-crm
+composer create-project /laravel-crm
 ```
 
 -   Find **.env** file in root directory and change the **APP_URL** param to your **domain**.
@@ -70,7 +62,7 @@ composer create-project krayin/laravel-crm
 -   Also, Configure the **Mail** and **Database** parameters inside **.env** file.
 
 ```
-php artisan krayin-crm:install
+php artisan -crm:install
 ```
 
 **To execute Krayin**:
@@ -99,14 +91,14 @@ php artisan serve
 > _http(s)://example.com/admin/login_
 
 ```
-email:admin@example.com
+email:admin@inkcasa.com
 password:admin123
 ```
 
 ### License
 
-Krayin CRM is a truly opensource CRM framework which will always be free under the [MIT License](https://github.com/krayin/laravel-crm/blob/master/LICENSE).
+ CRM is a truly opensource CRM framework which will always be free under the [MIT License](https://github.com//laravel-crm/blob/master/LICENSE).
 
 ### Security Vulnerabilities
 
-Please don't disclose security vulnerabilities publicly. If you find any security vulnerability in Krayin CRM then please email us: mailto:sales@krayincrm.com.
+Please don't disclose security vulnerabilities publicly. If you find any security vulnerability in Krayin CRM then please email us: mailto:sales@crm.com.
